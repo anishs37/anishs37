@@ -1,9 +1,9 @@
 ## Hey there! 
 
 <br>
-My name is Anish Susarla and I am a freshman at NYU's Stern School of Business completing a double major in Business, Technology, and Entrepreneurship (BTE) along with Computer Science. Most of my Computer Science experience lies in machine learning, where I have worked with researchers at multiple institutions to develop novel ML models. One such project, where we developed a novel COVID-19 prediction model, was accepted for publication and presentation at the 2022 ACM SIGSPATIAL conference (the paper can be viewed [here](https://dl.acm.org/doi/abs/10.1145/3557995.3566122)). Currently, I am a machine learning developer at Vytal, working to develop the gaze-tracking model for our quantitative brain health assessment application. In my free time, I like to play tennis, listen to music, and complete typing tests!
+My name is Anish Susarla and I am a freshman at NYU's Stern School of Business completing a double major in Business, Technology, and Entrepreneurship (BTE) along with Computer Science. Most of my Computer Science experience lies in machine learning, where I have worked with researchers at multiple institutions to develop novel ML models. One such project, where we developed a novel COVID-19 prediction model, was accepted for publication and presentation at the 2022 ACM SIGSPATIAL conference (the paper can be viewed <a href="https://dl.acm.org/doi/abs/10.1145/3557995.3566122" target="_blank">here</a>). Currently, I am a machine learning developer at <a href="https://vytal.ai/" target="_blank">Vytal</a>, wwhere I am developing the gaze-tracking model for our quantitative brain health assessment application. In my free time, I like to play tennis, listen to music, and complete typing tests!
 <br><br>
-To learn more about me, visit my [LinkedIn profile](https://www.linkedin.com/in/anishsusarla/) or my [portfolio website](https://anishs37.github.io/). Additionally, feel free to email me at: anish.susarla@stern.nyu.edu!
+To learn more about me, visit my <a href="https://www.linkedin.com/in/anishsusarla/" target="_blank">LinkedIn profile</a> or my <a href="https://anishs37.github.io/" target="_blank">portfolio website</a>. Additionally, feel free to <a href="mailto:anish.susarla@stern.nyu.edu" target="_blank">email me</a>!
 <br><br>
 
 ## Tech Stack
@@ -15,4 +15,6 @@ To learn more about me, visit my [LinkedIn profile](https://www.linkedin.com/in/
 <br><br>
 ## Stats
 ![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=anishs37)
+
+
 
