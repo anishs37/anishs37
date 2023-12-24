@@ -1,4 +1,4 @@
-![Header](https://github.com/anishs37/anishs37/blob/main/AnishSusarlaBanner.jpeg?raw=true)
+![Header](https://github.com/anishs37/anishs37/blob/main/AnishSusarlaNewBanner.png?raw=true)
 
 ## Hey there! 
 My name is Anish Susarla and I am a freshman at NYU's Stern School of Business completing a double major in Business, Technology, and Entrepreneurship (BTE) along with Computer Science. Most of my Computer Science experience lies in machine learning, where I have worked with researchers at multiple institutions to develop novel ML models. One such project, where we developed a novel COVID-19 prediction model, was accepted for publication and presentation at the 2022 ACM SIGSPATIAL conference (the paper can be viewed <a href="https://dl.acm.org/doi/abs/10.1145/3557995.3566122" target="_blank">here</a>). Currently, I am a machine learning developer at <a href="https://vytal.ai/" target="_blank">Vytal</a>, where I am developing the gaze-tracking model for our quantitative brain health assessment application. In my free time, I like to play tennis, listen to music, and complete typing tests!
