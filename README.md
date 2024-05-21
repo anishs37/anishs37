@@ -1,9 +1,11 @@
 ![Header](https://github.com/anishs37/anishs37/blob/main/AnishSusarlaNewBanner.png?raw=true)
 
 ## Hey there! 
-My name is Anish Susarla and I am a student at NYU's Stern School of Business completing a double major in Business, Technology, and Entrepreneurship (BTE) along with Computer Science. Most of my Computer Science experience lies in machine learning, where I have worked with researchers at multiple institutions to develop novel ML models. One such project, where we developed a novel COVID-19 prediction model, was accepted for publication and presentation at the 2022 ACM SIGSPATIAL conference (the paper can be viewed <a href="https://dl.acm.org/doi/abs/10.1145/3557995.3566122" target="_blank">here</a>). 
+My name is Anish Susarla and I am a student at NYU's Stern School of Business completing a double major in Business, Technology, and Entrepreneurship (BTE) along with Computer Science. 
 
-Currently, I am a machine learning developer at <a href="https://vytal.ai/" target="_blank">Vytal</a>, where I am developing and integrating the gaze-tracking model for our quantitative brain health application. I am also a machine learning researcher under Dr. Raveesh Mayya where we are developing an attention time-series prediction model to predict future app downloads based on time, ratings, and NLP-analysis of descriptions to help companies make informed application change decisions to maximize downloads.
+Most of my Computer Science experience lies in machine learning, where I have worked with researchers at multiple institutions to develop novel ML models. One such project, where we developed a novel COVID-19 prediction model, was accepted for publication and presentation at the 2022 ACM SIGSPATIAL conference (the paper can be viewed <a href="https://dl.acm.org/doi/abs/10.1145/3557995.3566122" target="_blank">here</a>). 
+
+Currently, I am a machine learning developer at <a href="https://vytal.ai/" target="_blank">Vytal</a>, where I am developing and integrating the gaze-tracking model for our quantitative brain health application. 
 
 In my free time, I like to play tennis, listen to music, and complete typing tests!
 <br><br>
