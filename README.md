@@ -5,11 +5,25 @@ My name is Anish Susarla and I am a student at NYU's Stern School of Business co
 
 Most of my Computer Science experience lies in machine learning, where I have worked with researchers at multiple institutions to develop novel ML models. One such project, where we developed a novel COVID-19 prediction model, was accepted for publication and presentation at the 2022 ACM SIGSPATIAL conference (the paper can be viewed <a href="https://dl.acm.org/doi/abs/10.1145/3557995.3566122" target="_blank">here</a>). 
 
-Currently, I am a machine learning developer at <a href="https://vytal.ai/" target="_blank">Vytal</a>, where I am developing and integrating the gaze-tracking model for our quantitative brain health application. 
+Currently, I am a machine learning developer at <a href="https://vytal.ai/" target="_blank">Vytal</a>, where I am developing and integrating the gaze-tracking model for our quantitative brain health application.
+
+This upcoming summer, I'll be joining Chicago Trading Companny as a Software Engineering Intern! More to come soon :).
 
 In my free time, I like to play tennis, listen to music, and complete typing tests!
+
+## Connect with me!
 <br><br>
-To learn more about me, visit my <a href="https://www.linkedin.com/in/anishsusarla/" target="_blank">LinkedIn profile</a> or my <a href="https://anishs37.github.io/" target="_blank">portfolio website</a>. Additionally, feel free to <a href="mailto:anish.susarla@stern.nyu.edu" target="_blank">email me</a>!
+<div style="display: flex; gap: 15px;">
+  <a href="https://www.linkedin.com/in/anishsusarla/" target="_blank" style="text-decoration: none;">
+    <img src="https://cdn-icons-png.flaticon.com/512/145/145807.png" alt="LinkedIn" style="width: 30px; height: 30px;">
+  </a>
+  <a href="https://anishs37.github.io/" target="_blank" style="text-decoration: none;">
+    <img src="https://cdn-icons-png.flaticon.com/512/123/123392.png" alt="Website" style="width: 30px; height: 30px;">
+  </a>
+  <a href="mailto:anish.susarla@stern.nyu.edu" target="_blank" style="text-decoration: none;">
+    <img src="https://cdn-icons-png.flaticon.com/512/732/732200.png" alt="Email" style="width: 30px; height: 30px;">
+  </a>
+</div>
 <br><br>
 
 ## Tech Stack
