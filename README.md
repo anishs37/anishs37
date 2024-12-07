@@ -12,7 +12,6 @@ This upcoming summer, I'll be joining Chicago Trading Companny as a Software Eng
 In my free time, I like to play tennis, listen to music, and complete typing tests!
 
 ## Connect with me!
-<br><br>
 <div style="display: flex; gap: 15px;">
   <a href="https://www.linkedin.com/in/anishsusarla/" target="_blank" style="text-decoration: none;">
     <img src="https://cdn-icons-png.flaticon.com/512/145/145807.png" alt="LinkedIn" style="width: 30px; height: 30px;">
@@ -24,7 +23,7 @@ In my free time, I like to play tennis, listen to music, and complete typing tes
     <img src="https://cdn-icons-png.flaticon.com/512/732/732200.png" alt="Email" style="width: 30px; height: 30px;">
   </a>
 </div>
-<br><br>
+<br>
 
 ## Tech Stack
 
