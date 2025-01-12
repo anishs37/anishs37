@@ -17,7 +17,7 @@ In my free time, I like to play tennis, listen to music, and complete typing tes
     <img src="https://cdn-icons-png.flaticon.com/512/145/145807.png" alt="LinkedIn" style="width: 30px; height: 30px;">
   </a>
   <a href="https://anishs37.github.io/" target="_blank" style="text-decoration: none;">
-    <img src="https://cdn-icons-png.flaticon.com/512/123/123392.png" alt="Website" style="width: 30px; height: 30px;">
+    <img src="https://cdn-icons-png.flaticon.com/512/123/123372.png" alt="Website" style="width: 30px; height: 30px;">
   </a>
   <a href="mailto:anish.susarla@stern.nyu.edu" target="_blank" style="text-decoration: none;">
     <img src="https://cdn-icons-png.flaticon.com/512/732/732200.png" alt="Email" style="width: 30px; height: 30px;">
