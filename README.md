@@ -57,7 +57,7 @@ In my free time, I like to play tennis, listen to music, and complete typing tes
 
 <br><br>
 ## Stats :)
-![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=anishs37)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=anishs37)](https://git.io/streak-stats)
 
 
 
