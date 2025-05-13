@@ -5,9 +5,9 @@ My name is Anish Susarla and I am a student at NYU's Stern School of Business co
 
 Most of my Computer Science experience lies in machine learning, where I have worked with researchers at multiple institutions to develop novel ML models. One such project, where we developed a novel COVID-19 prediction model, was accepted for publication and presentation at the 2022 ACM SIGSPATIAL conference (the paper can be viewed <a href="https://dl.acm.org/doi/abs/10.1145/3557995.3566122" target="_blank">here</a>). 
 
-Currently, I am a machine learning developer at <a href="https://vytal.ai/" target="_blank">Vytal</a>, where I am developing and integrating the gaze-tracking model for our quantitative brain health application.
+I was also the founding machine learning engineer at <a href="https://vytal.ai/" target="_blank">Vytal</a>, where I developed and integrated the gaze-tracking model for our quantitative brain health application, working with researchers from leading institutions in the process.
 
-This upcoming summer, I'll be joining Chicago Trading Companny as a Software Engineering Intern! More to come soon :).
+I'm also building Fari and will continue to do so this summer! Stay tuned for the journey : )
 
 In my free time, I like to play tennis, listen to music, and complete typing tests!
 
