@@ -1,4 +1,4 @@
-![Header](https://github.com/anishs37/anishs37/blob/main/AnishSusarlaNewBanner.png?raw=true)
+![Header](https://github.com/anishs37/anishs37/blob/main/AnishSusarlaFariBanner.png?raw=true)
 
 ## Hey there! 
 My name is Anish Susarla and I am a student at NYU's Stern School of Business completing a double major in Business, Technology, and Entrepreneurship (BTE) along with Computer Science. 
