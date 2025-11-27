@@ -1,13 +1,13 @@
 ![Header](https://github.com/anishs37/anishs37/blob/main/AnishSusarlaFariBanner.png?raw=true)
 
 ## Hey there! 
-My name is Anish Susarla and I am a student at NYU's Stern School of Business completing a double major in Business, Technology, and Entrepreneurship (BTE) along with Computer Science. 
+My name is Anish Susarla and I am the Chief Technology Officer at Fari, where we are automating the hotel back of house, creating the invisible engine behind every stay. You can learn more about us <a href="https://getfari.com/" target="_blank">here</a>
+
+I graduated NYU's Stern School of Business with a double major in Business, Technology, and Entrepreneurship (BTE) along with Computer Science. 
 
 Most of my Computer Science experience lies in machine learning, where I have worked with researchers at multiple institutions to develop novel ML models. One such project, where we developed a novel COVID-19 prediction model, was accepted for publication and presentation at the 2022 ACM SIGSPATIAL conference (the paper can be viewed <a href="https://dl.acm.org/doi/abs/10.1145/3557995.3566122" target="_blank">here</a>). 
 
 I was also the founding machine learning engineer at <a href="https://vytal.ai/" target="_blank">Vytal</a>, where I developed and integrated the gaze-tracking model for our quantitative brain health application, working with researchers from leading institutions in the process.
-
-I'm also building Fari and will continue to do so this summer! Stay tuned for the journey : )
 
 In my free time, I like to play tennis, listen to music, and complete typing tests!
 
@@ -16,10 +16,7 @@ In my free time, I like to play tennis, listen to music, and complete typing tes
   <a href="https://www.linkedin.com/in/anishsusarla/" target="_blank" style="text-decoration: none;">
     <img src="https://cdn-icons-png.flaticon.com/512/145/145807.png" alt="LinkedIn" style="width: 30px; height: 30px;">
   </a>
-  <a href="https://anishs37.github.io/" target="_blank" style="text-decoration: none;">
-    <img src="https://cdn-icons-png.flaticon.com/512/123/123372.png" alt="Website" style="width: 30px; height: 30px;">
-  </a>
-  <a href="mailto:anish.susarla@stern.nyu.edu" target="_blank" style="text-decoration: none;">
+  <a href="mailto:anish@getfari.com" target="_blank" style="text-decoration: none;">
     <img src="https://cdn-icons-png.flaticon.com/512/732/732200.png" alt="Email" style="width: 30px; height: 30px;">
   </a>
 </div>
